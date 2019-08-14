@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 41b99ac26b612bc45a811a5a57665e09
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: adidas_001
+    100004: adidas_002
+    100006: adidas_003
+    100008: adidas_004
+    100010: adidas_005
+    100012: adidas_006
+    100014: adidas_007
+    100016: adidas_008
+    100018: adidas_009
+    100020: backboard0
+    100022: backboard_
+    100024: basket ho0
+    100026: basket hoo
+    100028: basket_001
+    100030: basket_002
+    100032: basketball
+    100034: bb_backbo0
+    100036: bb_backboa
+    100038: bb_beam_00
+    100040: bb_beam_01
+    100042: bb_stand_0
+    100044: bb_stand_1
+    100046: Layer0_001
+    100048: mainbeam_0
+    100050: mainbeam_1
+    100052: net_001
+    100054: net_003
+    100056: support b0
+    100058: support ba
+    400000: //RootNode
+    400002: adidas_001
+    400004: adidas_002
+    400006: adidas_003
+    400008: adidas_004
+    400010: adidas_005
+    400012: adidas_006
+    400014: adidas_007
+    400016: adidas_008
+    400018: adidas_009
+    400020: backboard0
+    400022: backboard_
+    400024: basket ho0
+    400026: basket hoo
+    400028: basket_001
+    400030: basket_002
+    400032: basketball
+    400034: bb_backbo0
+    400036: bb_backboa
+    400038: bb_beam_00
+    400040: bb_beam_01
+    400042: bb_stand_0
+    400044: bb_stand_1
+    400046: Layer0_001
+    400048: mainbeam_0
+    400050: mainbeam_1
+    400052: net_001
+    400054: net_003
+    400056: support b0
+    400058: support ba
+    2100000: dbl_Layer0_003
+    2100002: dbl_backboard_00
+    2100004: dbl_backboard1
+    2100006: dbl_basket hoop_
+    2100008: dbl_Layer0_001
+    2100010: dbl_Layer0_002
+    2100012: dbl_Layer0_004
+    2100014: dbl_Layer0_005
+    2100016: dbl_Layer0_006
+    2100018: dbl_Layer0_007
+    2100020: dbl_Layer0_008
+    2300000: adidas_001
+    2300002: adidas_002
+    2300004: adidas_003
+    2300006: adidas_004
+    2300008: adidas_005
+    2300010: adidas_006
+    2300012: adidas_007
+    2300014: adidas_008
+    2300016: adidas_009
+    2300018: backboard0
+    2300020: backboard_
+    2300022: basket ho0
+    2300024: basket hoo
+    2300026: basket_001
+    2300028: basket_002
+    2300030: basketball
+    2300032: bb_backbo0
+    2300034: bb_backboa
+    2300036: bb_beam_00
+    2300038: bb_beam_01
+    2300040: bb_stand_0
+    2300042: bb_stand_1
+    2300044: Layer0_001
+    2300046: mainbeam_0
+    2300048: mainbeam_1
+    2300050: net_001
+    2300052: net_003
+    2300054: support b0
+    2300056: support ba
+    3300000: adidas_001
+    3300002: adidas_002
+    3300004: adidas_003
+    3300006: adidas_004
+    3300008: adidas_005
+    3300010: adidas_006
+    3300012: adidas_007
+    3300014: adidas_008
+    3300016: adidas_009
+    3300018: backboard0
+    3300020: backboard_
+    3300022: basket ho0
+    3300024: basket hoo
+    3300026: basket_001
+    3300028: basket_002
+    3300030: basketball
+    3300032: bb_backbo0
+    3300034: bb_backboa
+    3300036: bb_beam_00
+    3300038: bb_beam_01
+    3300040: bb_stand_0
+    3300042: bb_stand_1
+    3300044: Layer0_001
+    3300046: mainbeam_0
+    3300048: mainbeam_1
+    3300050: net_001
+    3300052: net_003
+    3300054: support b0
+    3300056: support ba
+    4300000: adidas_009
+    4300002: adidas_009
+    4300004: adidas_009
+    4300006: mainbeam_0
+    4300008: bb_beam_00
+    4300010: bb_stand_0
+    4300012: backboard_
+    4300014: bb_backboa
+    4300016: net_003
+    4300018: basket_002
+    4300020: basket hoo
+    4300022: support ba
+    4300024: basketball
+    4300026: Layer0_001
+    6400000: adidas_001
+    6400002: adidas_002
+    6400004: adidas_003
+    6400006: adidas_004
+    6400008: adidas_005
+    6400010: adidas_006
+    6400012: adidas_007
+    6400014: adidas_008
+    6400016: adidas_009
+    6400018: backboard0
+    6400020: backboard_
+    6400022: basket ho0
+    6400024: basket hoo
+    6400026: basket_001
+    6400028: basket_002
+    6400030: basketball
+    6400032: bb_backbo0
+    6400034: bb_backboa
+    6400036: bb_beam_00
+    6400038: bb_beam_01
+    6400040: bb_stand_0
+    6400042: bb_stand_1
+    6400044: Layer0_001
+    6400046: mainbeam_0
+    6400048: mainbeam_1
+    6400050: net_001
+    6400052: net_003
+    6400054: support b0
+    6400056: support ba
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 2
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
