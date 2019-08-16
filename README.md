@@ -1,5 +1,5 @@
-# BasketballVR-Unity
-Basketball VR Android game for Cardboard (min ver)
+# RUSSIAN ULTIMATE BASKETBALL 2019 VR
+Basketball VR Android game for Cardboard made with Unity (min ver)
 
 ------------
 
